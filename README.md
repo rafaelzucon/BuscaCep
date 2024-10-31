@@ -17,3 +17,10 @@ MySQL versão 8
 
 ![image](https://github.com/user-attachments/assets/2bbf2787-4a70-4530-bcab-24c750f5effb)
 
+
+Exemplo de utilização: 
+o campo "id" e "datahora" são provenientes do banco de dados da aplicação:
+
+![image](https://github.com/user-attachments/assets/4b10c523-e986-49e0-87a3-10084799af54)
+
+
