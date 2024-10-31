@@ -1,8 +1,8 @@
-Essa aplicação faz a consulta de um CEP em uma API externa e os dados retornados pela API são inseridos num banco de dados MySQL.
+Essa aplicação faz a consulta de um CEP em uma API externa e os dados retornados pela API são inseridos em um banco de dados MySQL.
 
 O banco de dados é instalado facilmente através do docker-compose, via terminal Linux:
 No diretório raíz do projeto, entrar na pasta docker-compose e digitar o comando: docker-compose up -d 
-
+Exemplo:
 ~/BuscaCep cd docker-compose
 ~/BuscaCep/docker-compose docker-compose up -d 
 
