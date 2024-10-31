@@ -9,3 +9,8 @@ No diretório raíz do projeto, entrar na pasta docker-compose e digitar o coman
 As configurações de banco de dados estão no arquivo ~/BuscaCep/docker-compose/docker-compose.yml e são as mesmas configuradas na aplicação, no arquivo ~/BuscaCep/src/main/resources/application.properties. 
 Se necessário, a senha do banco de dados deve ser alterada em ambos arquivos.
 
+Java versão 11
+Maven 3.9.8
+Docker versão 20.10
+MySQL versão 8
+
