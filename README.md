@@ -14,3 +14,6 @@ Maven 3.9.8
 Docker versão 20.10
 MySQL versão 8
 
+
+![image](https://github.com/user-attachments/assets/2bbf2787-4a70-4530-bcab-24c750f5effb)
+
