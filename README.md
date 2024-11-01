@@ -9,7 +9,7 @@ Exemplo:
 
 ~/BuscaCep cd docker-compose
 
-~/BuscaCep/docker-compose docker-compose up -d 
+~/BuscaCep/docker-compose sudo docker-compose up -d 
 
 As configurações de banco de dados estão no arquivo: 
 
