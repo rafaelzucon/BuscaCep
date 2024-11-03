@@ -3,7 +3,7 @@ Essa aplicação faz a consulta de um CEP em uma API externa e os dados retornad
 O banco de dados é instalado facilmente através do docker-compose, via terminal Linux:
 No diretório raíz do projeto, entrar na pasta docker-compose e digitar o comando: 
 
-docker-compose up -d 
+sudo docker-compose up -d 
 
 Exemplo:
 
