@@ -30,7 +30,7 @@ public class ConsultaCepService {
         HttpResponse response = httpClient.execute(request);
         ConsultaCepModel consultaCepModel = new ConsultaCepModel();
         consultaCepModel = objectMapper.readValue(response.getEntity().getContent(), ConsultaCepModel.class);
-        consultaCepModel.setDatahora(LocalDateTime.now(ZoneId.of("UTC")));
+        consultaCepModel.setDatahora(LocalDateTime.now(ZoneId.of("America/Sao_Paulo")));
         return this.persisteLog(consultaCepModel);
     }
 
